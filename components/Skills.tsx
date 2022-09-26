@@ -9,82 +9,82 @@ function Skills({}: Props) {
     {
       _id: 1,
       image: 'https://cdn.sanity.io/images/zu5je824/production/4e71637150747076accb322e2181e922daf53747-800x600.png',
-      progress: 100,
+      progress: 90,
     },
     {
       _id: 2,
       image: 'https://cdn.sanity.io/images/zu5je824/production/7021b4121d2fc34302ab8607e3ef421b52f92e05-400x400.jpg',
-      progress: 100,
+      progress: 75,
     },
     {
       _id: 4,
       image: 'https://cdn.sanity.io/images/zu5je824/production/8727f4792ff5de845e09d724d6ad65caef25a52d-200x200.gif',
-      progress: 100,
+      progress: 90,
     },
     {
       _id: 5,
       image: 'https://cdn.sanity.io/images/zu5je824/production/0330393f8fe04d1dbbc481cf84c75f33a3f706d5-225x225.png',
-      progress: 100,
+      progress: 80,
     },
     {
       _id: 6,
       image: 'https://cdn.sanity.io/images/zu5je824/production/af75ec69a4592f316013aebb6856a8c05cbfb7bf-225x225.png',
-      progress: 100,
+      progress: 70,
     },
     {
       _id: 7,
       image: 'https://cdn.sanity.io/images/zu5je824/production/6cb52a86b4f3da62a20f6e0f6499ed17eac450c1-2500x2500.svg',
-      progress: 100,
+      progress: 85,
     },
     {
       _id: 8,
       image: 'https://cdn.sanity.io/images/zu5je824/production/c31832072e5594f91edf6e3a523c259867f20e4d-225x225.png',
-      progress: 100,
+      progress: 70,
     },
     {
       _id: 9,
       image: 'https://cdn.sanity.io/images/zu5je824/production/f7750a0f06352bc1bfc9be53644d6fba03a4df59-1064x1064.jpg',
-      progress: 100,
+      progress: 60,
     },
     {
       _id: 10,
       image: 'https://cdn.sanity.io/images/zu5je824/production/f6b6cdda846a2d6a228c0041320e9c10d7a609ad-225x225.png',
-      progress: 100,
+      progress: 45,
     },
     {
       _id: 11,
       image: 'https://cdn.sanity.io/images/zu5je824/production/9cf70555f63d360f27c704f77f19aa65971573d6-225x225.png',
-      progress: 100,
+      progress: 55,
     },
     {
       _id: 12,
       image: 'https://cdn.sanity.io/images/zu5je824/production/879abb405cec83efdc4201dee239df1eeb3c156f-1080x1080.webp',
-      progress: 100,
+      progress: 40,
     },
     {
       _id: 13,
       image: 'https://cdn.sanity.io/images/zu5je824/production/0a8e5e93534e5e4a924fb4d958eca74a483eadea-225x225.png',
-      progress: 100,
+      progress: 80,
     },
     {
       _id: 14,
       image: 'https://cdn.sanity.io/images/zu5je824/production/4d46e891269e9148796c2fc459eb763f1055585f-500x500.jpg',
-      progress: 100,
+      progress: 60,
     },
     {
       _id: 3,
       image: 'https://cdn.sanity.io/images/zu5je824/production/24b2751389e3c80421c96bd25dc3bc3a82db9705-1064x1064.jpg',
-      progress: 100,
+      progress: 55,
     },
     {
       _id: 15,
       image: 'https://cdn.sanity.io/images/zu5je824/production/c31b379d245e2d303e63b6beb0a1451f8d88df45-300x300.jpg',
-      progress: 100,
+      progress: 50,
     },
     {
       _id: 16,
       image: 'https://cdn.sanity.io/images/zu5je824/production/943430856279252a43c9540190ccec8db6d099a2-225x225.png',
-      progress: 100,
+      progress: 85,
     },
   ];
   return (
